@@ -1,4 +1,3 @@
-// Topic: Two Pointer
 // Description: Move all zeroes to the end while maintaining the order of non-zero elements.
 // Approach: We Place non-zero elements at the front and fill remaining positions with zeroes.
 // Time Complexity: O(n)
