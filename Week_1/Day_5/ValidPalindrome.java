@@ -1,10 +1,8 @@
-// Topic: String Basics
 // Problem: Valid Palindrome
-// Description:
-// Check whether a string is a palindrome after removing non-alphanumeric characters.
-// Approach: Use two pointers from both ends and compare characters case-insensitively.
+// Description: Check whether a string is a palindrome after removing non-alphanumeric characters.
+// Approach: we use two pointers from both ends and compare characters case-insensitively.
 // Time Complexity: O(n)
-//Space co,: O(1)
+// Space com: O(1)
 
 class Solution {
     public boolean isPalindrome(String s) {
