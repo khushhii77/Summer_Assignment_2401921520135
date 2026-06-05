@@ -1,8 +1,6 @@
-// Topic: String Basics
 // Problem: Reverse String
-// Description:
-// Reverse the given character array in-place.
-// Approach: Use two pointers and swap characters from both ends.
+// Description: Reverse the given character array in-place.
+// Approach: we use two pointers and swap characters from both ends.
 // Time Complexity: O(n)
 //Space com: O(1)
 
