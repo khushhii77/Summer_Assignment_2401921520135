@@ -1,0 +1,7 @@
+# Day 1 - Hashing in Strings
+
+Problems:
+
+1. Valid Anagram
+2. First Unique Character in a String
+3. Ransom Note
